@@ -44,8 +44,13 @@
 
 
 ## Soft skills
+* **Great attention to detail and analytical skills**: Proven ability to identify and report over 80 defects, demonstrating a keen eye for catching even the smallest software flaws.
+* **Fast learner**: Strong ability to quickly grasp new concepts and technologies, as evidenced by the successful completion of my master's degree in Information Technology. Applied this skill to effectively learn and implement various testing methodologies and tools.
+* **Team player**: Demonstrated strong teamwork skills through successful collaboration with team leaders and members on various testing projects.
+* **Open-minded**: Embracing new ideas in both my professional career and personal life.
 
-[List of your soft skills, such as communication, teamwork, problem-solving]
+
+
 
 ## Books
 
