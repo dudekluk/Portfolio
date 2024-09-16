@@ -184,8 +184,7 @@ ORDER BY COUNT(*) DESC;
 ```
 ### <a name="medium-question-17">17. Show all columns for patient_id 542's most recent admission_date.</a>
 ```sql
-SELECT
-  *
+SELECT *
 FROM admissions
 WHERE patient_id = 542
 ORDER BY admission_date DESC
