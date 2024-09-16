@@ -19,6 +19,7 @@
     * [14. Based on the cities that our patients live in, show unique cities that are in province_id 'NS'?](#easy-question-14)
     * [15. Write a query to find the first_name, last name and birth date of patients who has height greater than 160 and weight greater than 70.](#easy-question-15)
     * [16. Write a query to find list of patients first_name, last name, and allergies where allergies are not null and are from the city of 'Hamilton'](#easy-question-16)
+
 *  <a href="https://github.com/dudekluk/Portfolio/blob/main/SQL%20Practice%Easy" target="_blank"><b>Move to Easy tasks</b></a>
 *  <a href="https://github.com/dudekluk/Portfolio/blob/main/SQL%20Practice%Hard" target="_blank"><b>Move to Hard tasks</b></a>
 
