@@ -1,4 +1,6 @@
-
+* [Hard Questions](#hard-questions)
+    * [1. Show unique birth years from patients and order them by ascending.](#hard-question-1)
+    * [2. Show unique first names from the patients table which only occurs once in the list.](#hard-question-2)
 
 
 
