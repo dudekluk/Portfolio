@@ -91,7 +91,18 @@
 
 ### SQL
 
-[Describe your SQL projects or experience]
+I have developed strong SQL skills through hands-on practice and self-study. I am proficient in various SQL operations, including:
+* Filtering data based on specific conditions.
+* Performing mathematical operations on data.
+* Aggregating and describing data (minimum, maximum, average, count, and sum).
+* Grouping data for analysis.
+* Ordering data in ascending or descending order.
+* Limiting the output data to specific rows.
+* Joining related tables to combine data from multiple sources.
+
+I have honed these abilities by solving tasks on platforms like **[SQL Practice](https://www.sql-practice.com/)**, where I tackled real-world scenarios to enhance my understanding and application of SQL.
+
+Here you can find examples of how I solved tasks on SQL Practice: [GitHub Link]
 
 ### Automation
 
