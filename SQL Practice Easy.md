@@ -100,8 +100,7 @@ LIMIT 1
 ```sql
 SELECT *
 FROM patients
-WHERE   
-  patient_id IN(1, 45, 534, 879, 1000)
+WHERE patient_id IN(1, 45, 534, 879, 1000)
 ```
 ### <a name="easy-question-11">11. Show the total number of admissions.</a>
 ```sql
