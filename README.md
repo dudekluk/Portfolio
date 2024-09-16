@@ -103,9 +103,9 @@ I have developed strong SQL skills through hands-on practice and self-study. I a
 I have honed these abilities by solving tasks on platforms like **[SQL Practice](https://www.sql-practice.com/)**, where I tackled real-world scenarios to enhance my understanding and application of SQL.
 
 Here you can find examples of how I solved tasks on SQL Practice:
-   * <a href="https://github.com/dudekluk/Portfolio/blob/main/SQL%20Practice%Easy.md" target="_blank"><b>Link to Github SQL Easy tasks</b></a>
-   * <a href="https://github.com/dudekluk/Portfolio/blob/main/SQL%20Practice%Medium.md" target="_blank"><b>Link to Github SQL Medium tasks</b></a>
-   * <a href="https://github.com/dudekluk/Portfolio/blob/main/SQL%20Practice%Hard.md" target="_blank"><b>Link to Github SQL Hard tasks</b></a>
+   * <a href="https://github.com/dudekluk/Portfolio/blob/main/SQL%20Practice%20Easy.md" target="_blank"><b>Link to Github SQL Easy tasks</b></a>
+   * <a href="https://github.com/dudekluk/Portfolio/blob/main/SQL%20Practice%20Medium.md" target="_blank"><b>Link to Github SQL Medium tasks</b></a>
+   * <a href="https://github.com/dudekluk/Portfolio/blob/main/SQL%20Practice%20Hard.md" target="_blank"><b>Link to Github SQL Hard tasks</b></a>
 ### Automation
 
 [Describe your automation projects or experience]
