@@ -25,6 +25,10 @@
     * [24. Display patient's full name, height in the unit feet rounded to 1 decimal, weight in the unit pounds rounded to 0 decimals, birth_date, gender non abbreviated. Convert CM to feet by dividing by 30.48. Convert KG to pounds by multiplying by 2.205.](#medium-question-24)
     * [25. Show patient_id, first_name, last_name from patients whose does not have any records in the admissions table. (Their patient_id does not exist in any admissions.patient_id rows).](#medium-question-25)
 
+
+* <a href="https://github.com/dudekluk/Portfolio/blob/main/SQL%20Practice%20Medium.md" target="_blank"><b>Move to Medium tasks</b></a>
+* <a href="https://github.com/dudekluk/Portfolio/blob/main/SQL%20Practice%20Hard.md" target="_blank"><b>Move to Hard tasks</b></a>
+
 ## Medium Questions
 
 ### <a name="medium-question-1">1. Show unique birth years from patients and order them by ascending.</a>
