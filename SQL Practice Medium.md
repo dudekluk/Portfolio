@@ -60,8 +60,7 @@ SELECT
   last_name
 FROM patients
   JOIN admissions ON patients.patient_id = admissions.patient_id
-WHERE   
- diagnosis = 'Dementia';
+WHERE diagnosis = 'Dementia';
 ```
 ### <a name="medium-question-5">5. Display every patient's first_name. Order the list by the length of each name and then by alphabetically.</a>
 ```sql
@@ -86,8 +85,7 @@ SELECT
 FROM patients
 WHERE allergies IN ('Penicillin', 'Morphine')
 ORDER BY
-  allergies   
- ASC,
+  allergies ASC,
   first_name,
   last_name;
 ```
@@ -112,7 +110,7 @@ FROM patients
 GROUP BY city
 ORDER BY
   COUNT(*) DESC,   
-  city ASC
+  city 
 ```
 ### <a name="medium-question-10">10. Show first name, last name and role of every person that is either patient or doctor. The roles are either "Patient" or "Doctor"</a>
 ```sql
@@ -145,14 +143,13 @@ SELECT
   last_name,
   birth_date
 FROM patients
-WHERE
-  YEAR(birth_date) BETWEEN 1970 AND 1979
+WHERE YEAR(birth_date) BETWEEN 1970 AND 1979
 ORDER BY birth_date;
 ```
 ### <a name="medium-question-13">13. We want to display each patient's full name in a single column. Their last_name in all upper letters must appear first, then first_name in all lower case letters. Separate the last_name and first_name with a comma. Order the list by the first_name in decending order EX: SMITH,jane</a>
 ```sql
 SELECT
-  CONCAT(UPPER(last_name), ', ', LOWER(first_name))
+  CONCAT(UPPER(last_name), ',', LOWER(first_name))
 FROM patients
 ORDER BY first_name DESC;
 ```
@@ -175,8 +172,7 @@ WHERE last_name = 'Maroni';
 ### <a name="medium-question-16">16. Show all of the days of the month (1-31) and how many admission_dates occurred on that day. Sort by the day with most admissions to least admissions.</a>
 ```sql
 SELECT
-  DAY(admission_date)   
- AS day,
+  DAY(admission_date) AS day,
   COUNT(*)
 FROM admissions
 GROUP BY day
@@ -213,8 +209,7 @@ SELECT
   COUNT(admission_date)   
 FROM admissions
   JOIN doctors ON admissions.attending_doctor_id = doctors.doctor_id
-GROUP   
- BY attending_doctor_id;  
+GROUP BY attending_doctor_id;  
 ```
 ### <a name="medium-question-20">20. For each doctor, display their id, full name, and the first and last admission date they attended.</a>
 ```sql
@@ -240,11 +235,10 @@ ORDER BY COUNT(*) DESC;
 ### <a name="medium-question-22">22. For every admission, display the patient's full name, their admission diagnosis, and their doctor's full name who diagnosed their problem.</a>
 ```sql
 SELECT
-  CONCAT(patients.first_name, ' ', patients.last_name),
+  CONCAT(patients.first_name,' ', patients.last_name),
   diagnosis,
-  CONCAT(doctors.first_name, ' ', doctors.last_name)
-FROM   
- patients
+  CONCAT(doctors.first_name,' ', doctors.last_name)
+FROM patients
   JOIN admissions ON admissions.patient_id = patients.patient_id
   JOIN doctors ON doctors.doctor_id = admissions.attending_doctor_id; 
 ```
@@ -264,14 +258,14 @@ ORDER BY COUNT(*);
 ### <a name="medium-question-24">24. Display patient's full name, height in the units feet rounded to 1 decimal, weight in the unit pounds rounded to 0 decimals, birth_date, gender non abbreviated. Convert CM to feet by dividing by 30.48. Convert KG to pounds by multiplying by 2.205.</a>
 ```sql
 SELECT
-  CONCAT(first_name, ' ', last_name),
+  CONCAT(first_name,' ', last_name),
   ROUND(height / 30.48, 1),
   ROUND(weight * 2.205, 0),
   birth_date,
   CASE
     WHEN gender = 'M' THEN 'MALE'
     WHEN gender = 'F' THEN 'FEMALE'
-  END AS gender
+  END
 FROM patients;  
 ```
 ### <a name="medium-question-25">25. Show patient_id, first_name, last_name from patients whose does not have any records in the admissions table. (Their patient_id does not exist in any admissions.patient_id rows.)</a>
