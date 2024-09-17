@@ -1,3 +1,7 @@
+# SQL Query Examples
+
+## Table of Contents
+
 * [Hard Questions](#hard-questions)
     * [1. Categorize patients by weight range and count patients in each group.](#hard-question-1)
     * [2. Calculate obesity based on BMI and display patient information.](#hard-question-2)
