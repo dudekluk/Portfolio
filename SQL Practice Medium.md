@@ -1,3 +1,7 @@
+# SQL Query Examples
+
+## Table of Contents
+
 * [Medium Questions](#medium-questions)
     * [1. Show unique birth years from patients and order them by ascending.](#medium-question-1)
     * [2. Show unique first names from the patients table which only occurs once in the list.](#medium-question-2)
