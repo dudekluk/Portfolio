@@ -106,17 +106,32 @@ Here you can find examples of how I solved tasks on SQL Practice:
    * <a href="https://github.com/dudekluk/Portfolio/blob/main/SQL%20Practice%20Easy.md" target="_blank"><b>Link to Github SQL Easy tasks</b></a>
    * <a href="https://github.com/dudekluk/Portfolio/blob/main/SQL%20Practice%20Medium.md" target="_blank"><b>Link to Github SQL Medium tasks</b></a>
    * <a href="https://github.com/dudekluk/Portfolio/blob/main/SQL%20Practice%20Hard.md" target="_blank"><b>Link to Github SQL Hard tasks</b></a>
+   
+<br>
+<br>
+
+### Test cases
+
+As part of my learning proces, I'm actively learning to use Jira and Xray, two popular tools for test management and defect tracking.
+
+I've been practicing writing test cases in **Jira** and **Xray**. You can view some examples of my work <a href="https://github.com/dudekluk/Portfolio/blob/main/Test%Cases.md" target="_blank"><b>here</b></a>. This combination of tools is proving to be invaluable in streamlining my workflow and ensuring that the software meets the highest standards of quality. dditionally, I've also been exploring other tools like **Qase** to broaden my knowledge.
+
+<br>
+<br>
+
 ### Automation
 
 [Describe your automation projects or experience]
 
-### Test cases
 
-[Describe your experience with creating and executing test cases]
-
+<br>
+<br>
 ### API
 
 [Describe your experience with API development or integration]
+
+<br>
+<br>
 
 #### API Project 1
 
@@ -124,6 +139,9 @@ Here you can find examples of how I solved tasks on SQL Practice:
 * **Technologies:** [List of technologies used]
 * **Role:** [Your role in the project]
 * **Achievements:** [Highlight your contributions and results]
+* 
+<br>
+<br>
 
 #### API Project 2
 
