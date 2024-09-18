@@ -1,7 +1,7 @@
 # Example of Login test cases
 
 ## Table of Contents
-* [List of all test cases created in Jira and Xray.](#Jira)
+* [List of all test cases created in Jira and Xray.](#Lis-of-all-test-cases-created-in-Jira-and-Xray.)
 * [Example test cases in full details using Qase.](#Qase)
     * [1. Verify successful login with valid data](#Qase-1)
     * [2. Verify failed login with invalid data ](#Qase-2)
@@ -14,7 +14,8 @@
 
 
 
-##  <a name="Jira">List of all test cases created in Jira and Xray.</a>
+##  List of all test cases created in Jira and Xray.
+
 
 ![Alt text](https://github.com/dudekluk/Portfolio/blob/main/img/Login_Test_Cases.png "a title")
 
