@@ -13,8 +13,10 @@
     * [8. Validate session timeout](#Qase-8)
  
 
+
+<h1 id="Jira-Main">List of all test cases created in Jira and Xray</h2>
  
-# <a name="Jira-Main">List of all test cases created in Jira and Xray. </a>
+
 
 ![Alt text](https://github.com/dudekluk/Portfolio/blob/main/img/Login_Test_Cases.png "a title")
 
