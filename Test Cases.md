@@ -14,13 +14,14 @@
 
 
 
-##  List of all test cases created in Jira and Xray.
+List of all test cases created in Jira and Xray.
 
 
 ![Alt text](https://github.com/dudekluk/Portfolio/blob/main/img/Login_Test_Cases.png "a title")
 
 
-## <a name="Qase">Example test cases in full details using Qase.</a>
+
+<a name="Qase">Example test cases in full details using Qase.</a>
 
  <a name="Qase-1">1. Verify successful login with valid data</a>  
  
