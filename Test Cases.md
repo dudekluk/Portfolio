@@ -1,7 +1,7 @@
 # Example of Login test cases
 
 ## Table of Contents
-* [List of all test cases created in Jira and Xray.](#Lis-of-all-test-cases-created-in-Jira-and-Xray.)
+* [List of all test cases created in Jira and Xray.](#Jira)
 * [Example test cases in full details using Qase.](#Qase)
     * [1. Verify successful login with valid data](#Qase-1)
     * [2. Verify failed login with invalid data ](#Qase-2)
@@ -11,17 +11,15 @@
     * [6. Check login using social media](#Qase-6)
     * [7. Test logout functionality](#Qase-7)
     * [8. Validate session timeout](#Qase-8)
-
-
-
-List of all test cases created in Jira and Xray.
-
+ 
+---
+ 
+##  <a name="Jira">List of all test cases created in Jira and Xray.</a>
 
 ![Alt text](https://github.com/dudekluk/Portfolio/blob/main/img/Login_Test_Cases.png "a title")
 
 
-
-<a name="Qase">Example test cases in full details using Qase.</a>
+##  <a name="Qase">Example test cases in full details using Qase.</a>
 
  <a name="Qase-1">1. Verify successful login with valid data</a>  
  
