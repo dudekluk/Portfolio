@@ -12,14 +12,14 @@
     * [7. Test logout functionality](#Qase-7)
     * [8. Validate session timeout](#Qase-8)
  
----
+
  
-##  <a name="Jira-Main">List of all test cases created in Jira and Xray.</a>
+<a name="Jira-Main">List of all test cases created in Jira and Xray. </a>
 
 ![Alt text](https://github.com/dudekluk/Portfolio/blob/main/img/Login_Test_Cases.png "a title")
 
 
-##  <a name="Qase-Main">Example test cases in full details using Qase.</a>
+<a name="Qase-Main">Example test cases in full details using Qase. </a>
 
  <a name="Qase-1">1. Verify successful login with valid data</a>  
  
