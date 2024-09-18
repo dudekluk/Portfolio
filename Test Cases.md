@@ -21,7 +21,8 @@
 
 ## <a name="Qase">Example test cases in full details using Qase.</a>
 
- <a name="Qase-1">1. Verify successful login with valid data</a> 
+ <a name="Qase-1">1. Verify successful login with valid data</a>  
+ 
  ---
 ![Alt text](https://github.com/dudekluk/Portfolio/blob/main/img/TC1.png "Test Case 1")
  <a name="Qase-2">2. Verify failed login with invalid data </a>
