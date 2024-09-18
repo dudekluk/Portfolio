@@ -26,24 +26,31 @@
  ---
 ![Alt text](https://github.com/dudekluk/Portfolio/blob/main/img/TC1.png "Test Case 1")
  <a name="Qase-2">2. Verify failed login with invalid data </a>
+ 
  ---
 ![Alt text](https://github.com/dudekluk/Portfolio/blob/main/img/TC2.png "Test Case 2")
  <a name="Qase-3">3. Check login with empty fields</a>
+ 
  ---
 ![Alt text](https://github.com/dudekluk/Portfolio/blob/main/img/TC3.png "Test Case 3")
  <a name="Qase-4">4. Test password reset functionality</a>
+ 
  ---
 ![Alt text](https://github.com/dudekluk/Portfolio/blob/main/img/TC4.png "Test Case 4")
  <a name="Qase-5">5. Check two-factor authentication</a>
+ 
  ---
 ![Alt text](https://github.com/dudekluk/Portfolio/blob/main/img/TC5.png "Test Case 5")
  <a name="Qase-6">6. Check login using social media</a>
+ 
  ---
 ![Alt text](https://github.com/dudekluk/Portfolio/blob/main/img/TC6.png "Test Case 6")
  <a name="Qase-7">7. Test logout functionality</a>
+ 
  ---
 ![Alt text](https://github.com/dudekluk/Portfolio/blob/main/img/TC7.png "Test Case 7")
  <a name="Qase-8">8. Validate session timeout </a>
+ 
  ---
 ![Alt text](https://github.com/dudekluk/Portfolio/blob/main/img/TC8.png "Test Case 8")
 
