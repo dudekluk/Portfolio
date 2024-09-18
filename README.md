@@ -114,7 +114,7 @@ Here you can find examples of how I solved tasks on SQL Practice:
 
 As part of my learning proces, I'm actively learning to use Jira and Xray, two popular tools for test management and defect tracking.
 
-I've been practicing writing test cases in **Jira** and **Xray**. You can view some examples of my work <a href="https://github.com/dudekluk/Portfolio/blob/main/Test%Cases.md" target="_blank"><b>here</b></a>. This combination of tools is proving to be invaluable in streamlining my workflow and ensuring that the software meets the highest standards of quality. dditionally, I've also been exploring other tools like **Qase** to broaden my knowledge.
+I've been practicing writing test cases in **Jira** and **Xray**. You can view some examples of my work <a href="https://github.com/dudekluk/Portfolio/blob/main/Test%20Cases.md" target="_blank"><b>here</b></a>. This combination of tools is proving to be invaluable in streamlining my workflow and ensuring that the software meets the highest standards of quality. dditionally, I've also been exploring other tools like **Qase** to broaden my knowledge.
 
 <br>
 <br>
