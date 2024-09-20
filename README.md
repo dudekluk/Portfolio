@@ -13,8 +13,8 @@
 * [Projects](#projects)
     * [SQL](#sql)
     * [Test cases](#test-cases)
-    * [API](#api)
-    * [Automation](#automation)
+    * [REST API testing with Postman](#rest-api-testing-with-postman)
+    * [other work in progress](#other-wip)
 
 ## About me
 
@@ -107,8 +107,7 @@ Here you can find examples of how I solved tasks on SQL Practice:
    * <a href="https://github.com/dudekluk/Portfolio/blob/main/SQL%20Practice%20Medium.md" target="_blank"><b>Link to Github SQL Medium tasks</b></a>
    * <a href="https://github.com/dudekluk/Portfolio/blob/main/SQL%20Practice%20Hard.md" target="_blank"><b>Link to Github SQL Hard tasks</b></a>
    
-<br>
-<br>
+<br></br>
 
 ### Test cases
 
@@ -116,33 +115,20 @@ As part of my learning proces, I'm actively learning to use Jira and Xray, two p
 
 I've been practicing writing test cases in **Jira** and **Xray**. You can view some examples of my work <a href="https://github.com/dudekluk/Portfolio/blob/main/Test%20Cases.md" target="_blank"><b>here</b></a>. This combination of tools is proving to be invaluable in streamlining my workflow and ensuring that the software meets the highest standards of quality. dditionally, I've also been exploring other tools like **Qase** to broaden my knowledge.
 
-<br>
-<br>
+<br></br>
 
-### Automation
+### REST API testing with Postman
 
-[Describe your automation projects or experience]
+If you're curious about my API testing skills, I encourage you to explore my dedicated <a href="https://github.com/dudekluk/Postman/blob/main/README.md" target="_blank"><b>Postman GitHub repository</b></a> where you'll find real-world examples of my Postman collections, API testing strategies, and my approach to writing assertions.
 
 
-<br>
-<br>
-### API
+
+<br></br>
+### other WIP
 
 [Describe your experience with API development or integration]
 
-<br>
-<br>
+<br></br>
 
-#### API Project 1
 
-* **Description:** [Brief description of the project]
-* **Technologies:** [List of technologies used]
-* **Role:** [Your role in the project]
-* **Achievements:** [Highlight your contributions and results]
-* 
-<br>
-<br>
 
-#### API Project 2
-
-[Repeat the same structure for additional API projects]
