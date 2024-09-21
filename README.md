@@ -119,7 +119,7 @@ I've been practicing writing test cases in **Jira** and **Xray**. You can view s
 
 ### REST API testing with Postman
 
-If you're curious about my API testing skills, I encourage you to explore my dedicated <a href="https://github.com/dudekluk/Postman/README.md" target="_blank"><b>Postman GitHub repository</b></a> where you'll find real-world examples of my Postman collections, API testing strategies, and my approach to writing assertions.
+If you're curious about my API testing skills, I encourage you to explore my dedicated <a href="https://github.com/dudekluk/Postman" target="_blank"><b>Postman GitHub repository</b></a> where you'll find real-world examples of my Postman collections, API testing strategies, and my approach to writing assertions.
 
 
 
