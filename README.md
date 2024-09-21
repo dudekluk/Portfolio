@@ -127,8 +127,10 @@ If you're curious about my API testing skills, I encourage you to explore my ded
 ### other WIP
 
 [Describe your experience with API development or integration]
+<p align="center">
+  <img src="https://github.com/dudekluk/Portfolio/blob/main/img/malowany-szablon-etykiety-z-podziekowaniem.png" alt="Image" width="70%" height="70%">
+</p>
 
-<br></br>
 
 
 
