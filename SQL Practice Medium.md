@@ -30,7 +30,7 @@
     * [25. Show patient_id, first_name, last_name from patients whose does not have any records in the admissions table. (Their patient_id does not exist in any admissions.patient_id rows).](#medium-question-25)
 
 
-* <a href="https://github.com/dudekluk/Portfolio/blob/main/SQL%20Practice%20Medium.md" target="_blank"><b>Move to Medium tasks</b></a>
+* <a href="https://github.com/dudekluk/Portfolio/blob/main/SQL%20Practice%20Easy.md" target="_blank"><b>Move to Easy tasks</b></a>
 * <a href="https://github.com/dudekluk/Portfolio/blob/main/SQL%20Practice%20Hard.md" target="_blank"><b>Move to Hard tasks</b></a>
 
 ## Medium Questions
