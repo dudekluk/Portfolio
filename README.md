@@ -128,9 +128,10 @@ If you're curious about my API testing skills, I encourage you to explore my ded
 
 [Describe your experience with API development or integration]
 <p align="center">
-  <img src="https://github.com/dudekluk/Portfolio/blob/main/img/malowany-szablon-etykiety-z-podziekowaniem.png" alt="Image" width="70%" height="70%">
+  <img src="https://github.com/dudekluk/Portfolio/blob/main/img/malowany-szablon-etykiety-z-podziekowaniem.png" alt="Image" width="70%" height="60%">
+ 
 </p>
 
-
+###### <p align="center"><a href="https://pl.freepik.com/darmowe-wektory/malowany-szablon-etykiety-z-podziekowaniem_10330820.htm#fromView=search&page=1&position=23&uuid=79c21d8b-1b3b-4f28-aec1-30b625c1a964" target="_blank">Image by Freepik</a></p> 
 
 
