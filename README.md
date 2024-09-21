@@ -103,9 +103,9 @@ I have developed strong SQL skills through hands-on practice and self-study. I a
 I have honed these abilities by solving tasks on platforms like **[SQL Practice](https://www.sql-practice.com/)**, where I tackled real-world scenarios to enhance my understanding and application of SQL.
 
 Here you can find examples of how I solved tasks on SQL Practice:
-   * <a href="https://github.com/dudekluk/Portfolio/blob/main/SQL%20Practice%20Easy.md" target="_blank"><b>Link to Github SQL Easy tasks</b></a>
-   * <a href="https://github.com/dudekluk/Portfolio/blob/main/SQL%20Practice%20Medium.md" target="_blank"><b>Link to Github SQL Medium tasks</b></a>
-   * <a href="https://github.com/dudekluk/Portfolio/blob/main/SQL%20Practice%20Hard.md" target="_blank"><b>Link to Github SQL Hard tasks</b></a>
+   * <a href="https://github.com/dudekluk/Portfolio/SQL%20Practice%20Easy.md" target="_blank"><b>Link to Github SQL Easy tasks</b></a>
+   * <a href="https://github.com/dudekluk/Portfolio/SQL%20Practice%20Medium.md" target="_blank"><b>Link to Github SQL Medium tasks</b></a>
+   * <a href="https://github.com/dudekluk/Portfolio/SQL%20Practice%20Hard.md" target="_blank"><b>Link to Github SQL Hard tasks</b></a>
    
 <br></br>
 
@@ -113,13 +113,13 @@ Here you can find examples of how I solved tasks on SQL Practice:
 
 As part of my learning proces, I'm actively learning to use Jira and Xray, two popular tools for test management and defect tracking.
 
-I've been practicing writing test cases in **Jira** and **Xray**. You can view some examples of my work <a href="https://github.com/dudekluk/Portfolio/blob/main/Test%20Cases.md" target="_blank"><b>here</b></a>. This combination of tools is proving to be invaluable in streamlining my workflow and ensuring that the software meets the highest standards of quality. dditionally, I've also been exploring other tools like **Qase** to broaden my knowledge.
+I've been practicing writing test cases in **Jira** and **Xray**. You can view some examples of my work <a href="https://github.com/dudekluk/Portfolio/Test%20Cases.md" target="_blank"><b>here</b></a>. This combination of tools is proving to be invaluable in streamlining my workflow and ensuring that the software meets the highest standards of quality. dditionally, I've also been exploring other tools like **Qase** to broaden my knowledge.
 
 <br></br>
 
 ### REST API testing with Postman
 
-If you're curious about my API testing skills, I encourage you to explore my dedicated <a href="https://github.com/dudekluk/Postman/blob/main/README.md" target="_blank"><b>Postman GitHub repository</b></a> where you'll find real-world examples of my Postman collections, API testing strategies, and my approach to writing assertions.
+If you're curious about my API testing skills, I encourage you to explore my dedicated <a href="https://github.com/dudekluk/Postman/README.md" target="_blank"><b>Postman GitHub repository</b></a> where you'll find real-world examples of my Postman collections, API testing strategies, and my approach to writing assertions.
 
 
 
