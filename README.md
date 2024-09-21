@@ -2,25 +2,32 @@
 
 ## Table of Contents
 
-* [About me](#about-me)
-* [Skills](#skills)
-* [Tools](#tools)
-* [Soft skills](#soft-skills)
-* [Books](#books)
-* [Facebook and Discord groups](#facebook-and-discord-groups)
-* [Webinars](#webinars)
-* [Recommended blogs](#recommended-blogs)
-* [Projects](#projects)
-    * [SQL](#sql)
-    * [Test cases](#test-cases)
-    * [REST API testing with Postman](#rest-api-testing-with-postman)
-    * [other work in progress](#other-wip)
+<ul>
+  <li><a href="#about-me">About me</a></li>
+  <li><a href="#skills">Skills</a></li>
+  <li><a href="#tools">Tools</a></li>
+  <li><a href="#soft-skills">Soft skills</a></li>
+  <li><a href="#books">Books</a></li>
+  <li><a href="#facebook-and-discord-groups">Facebook and Discord groups</a></li>
+  <li><a href="#webinars">Webinars</a></li>
+  <li><a href="#recommended-blogs">Recommended blogs</a></li>
+  <li><a href="#projects">Projects</a></li>
+   <ul>
+  <li><a href="#sql">SQL</a></li>
+  <li><a href="#test-cases">Test cases</a></li>
+  <li><a href="#rest-api-testing-with-postman">REST API testing with Postman</a></li>
+  <li><a href="#other-wip">Other work in progress</a></li>
+</ul>
+</ul>
 
-## About me
+    
+
+<h2 id="about-me">About me</h2>
 
 [Your information about yourself]
 
-## Skills
+
+<h2 id="skills">Skills</h2>
 
 * Understanding of fundamental **testing concepts and methodologies**
 * Ability to perform **REST API** testing using Postman and write simple assertions with JavaScript
@@ -30,7 +37,7 @@
 * Identifying, reporting, and tracking **defects** using bug tracking tools
 * Familiarity with various **software development methodologies**
 
-## Tools
+##  🛠️ Tools
 
 * **Postman:** REST API testing platform
 * **MySQL:** Relational database management system based on SQL
@@ -52,7 +59,7 @@
 
 
 
-## Books
+## 📖 Books
 
 * Zawód Tester - Radosław Smilgin
 * SQL w mgnieniu oka - Ben Forta
