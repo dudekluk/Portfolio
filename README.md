@@ -1,4 +1,4 @@
-# SOFTWARE TESTER PORTFOLIO - Łukasz Dudek
+# Portfolio
 
 ## Table of Contents
 
@@ -16,7 +16,6 @@
   <li><a href="#sql">SQL</a></li>
   <li><a href="#test-cases">Test cases</a></li>
   <li><a href="#rest-api-testing-with-postman">REST API testing with Postman</a></li>
-  <li><a href="#other-wip">Other work in progress</a></li>
 </ul>
 </ul>
 
@@ -31,7 +30,7 @@
 
 * Understanding of fundamental **testing concepts and methodologies**
 * Ability to perform **REST API** testing using Postman and write simple assertions with JavaScript
-* Ability to write **SQL** queries for data validation and verification
+* Ability to write **SQL** queries for data validation
 * Knowledge of the **ISTQB FL** syllabus
 * Creating **test scenarios** and **test cases**
 * **Identifying**, **reporting**, and **tracking** defects using bug tracking tools
@@ -96,14 +95,14 @@
 
 <h3 id="sql">➡ SQL</h3>
 
-I have developed strong SQL skills through hands-on practice and self-study. I am proficient in various SQL operations, including:
-* Filtering data based on specific conditions.
-* Performing mathematical operations on data.
-* Aggregating and describing data (minimum, maximum, average, count, and sum).
-* Grouping data for analysis.
-* Ordering data in ascending or descending order.
-* Limiting the output data to specific rows.
+I have developed strong SQL skills through hands-on practice and self-study. I'm proficient in various SQL operations, including:
+* Filtering data based on multiple conditions.
+* Using subqueries.
 * Joining related tables to combine data from multiple sources.
+* Performing mathematical operations on data.
+* Aggregating data using functions like MIN, MAX, AVG, COUNT, and SUM.
+* Grouping data for analysis.
+* Ordering and limiting data output.
 
 I have honed these abilities by solving tasks on platforms like **[SQL Practice](https://www.sql-practice.com/)**, where I tackled real-world scenarios to enhance my understanding and application of SQL.
 
@@ -117,25 +116,16 @@ Here you can find examples of how I solved tasks on SQL Practice:
 <h3 id="test-cases">➡ Test cases</h3>
 
 
-As part of my learning proces, I'm actively learning to use Jira and Xray, two popular tools for test management and defect tracking.
-
-I've been practicing writing test cases in **Jira** and **Xray**. You can view some examples of my work <a href="https://github.com/dudekluk/Portfolio/blob/main/Test%20Cases.md" target="_blank"><b>here</b></a>. This combination of tools is proving to be invaluable in streamlining my workflow and ensuring that the software meets the highest standards of quality. dditionally, I've also been exploring other tools like **Qase** to broaden my knowledge.
-
+I've been practicing writing clear and well-structured test cases in **Jira**, a popular team and project management tool, combined with **Xray**, a powerful test and defect tracking plugin for Jira. You can view some examples of my work in <a href="https://github.com/dudekluk/Portfolio/blob/main/Test%20Cases.md" target="_blank"><b>GitHub SQL section</b></a>. This combination of tools allowed me to effectively organize and manage my testing efforts. Additionally, I've also been exploring other tools like **Qase** to broaden my knowledge.
 
 
 <h3 id="rest-api-testing-with-postman">➡ REST API testing with Postman</h3>
 
 If you're curious about my API testing skills, I encourage you to explore my dedicated <a href="https://github.com/dudekluk/Postman" target="_blank"><b>Postman GitHub repository</b></a> where you'll find real-world examples of my Postman collections, API testing strategies, and my approach to writing assertions.
 
-
-
-
-### other WIP
-
-[Describe your experience with API development or integration]
+<br></br>
 <p align="center">
-  <img src="https://github.com/dudekluk/Portfolio/blob/main/img/malowany-szablon-etykiety-z-podziekowaniem.png" alt="Image" width="70%" height="60%">
- 
+  <img src="https://github.com/dudekluk/Portfolio/blob/main/img/malowany-szablon-etykiety-z-podziekowaniem.png" alt="Image" width="50%" height="50%">
 </p>
 
 ###### <p align="center"><a href="https://pl.freepik.com/darmowe-wektory/malowany-szablon-etykiety-z-podziekowaniem_10330820.htm#fromView=search&page=1&position=23&uuid=79c21d8b-1b3b-4f28-aec1-30b625c1a964" target="_blank">Image by Freepik</a></p> 
