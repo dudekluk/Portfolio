@@ -1,6 +1,6 @@
-
+<p align="center">
   <img src="https://github.com/dudekluk/Portfolio/blob/main/img/Logo.png" alt="Image" width="80%" height="80%">
-  
+</p>
 ## Table of Contents
 
 <ul>
