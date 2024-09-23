@@ -16,8 +16,8 @@
     * [11. Analyze doctor admissions by year and specialty.](#hard-question-11)
 
 
-* <a href="https://github.com/dudekluk/Portfolio/blob/main/SQL%20Practice%20Easy.md" target="_blank"><b>Move to Easy tasks</b></a>
-* <a href="https://github.com/dudekluk/Portfolio/blob/main/SQL%20Practice%20Medium.md" target="_blank"><b>Move to Medium tasks</b></a>
+* <a href="https://github.com/dudekluk/Portfolio/blob/main/doc/SQL%20Practice%20Easy.md" target="_blank"><b>Move to Easy tasks</b></a>
+* <a href="https://github.com/dudekluk/Portfolio/blob/main/doc/SQL%20Practice%20Medium.md" target="_blank"><b>Move to Medium tasks</b></a>
 
 ### <a name="hard-question-1">1. Show all of the patients grouped into weight groups. Show the total amount of patients in each weight group.
 * Order the list by the weight group decending.
