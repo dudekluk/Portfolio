@@ -96,16 +96,16 @@ I have developed strong SQL skills through hands-on practice and self-study. I'm
 I have honed these abilities by solving tasks on platforms like **[SQL Practice](https://www.sql-practice.com/)**, where I tackled real-world scenarios to enhance my understanding and application of SQL.
 
 Here you can find examples of how I solved tasks on SQL Practice:
-   * <a href="https://github.com/dudekluk/Portfolio/blob/main/SQL%20Practice%20Easy.md" target="_blank"><b>Link to Github SQL Easy tasks</b></a>
-   * <a href="https://github.com/dudekluk/Portfolio/blob/main/SQL%20Practice%20Medium.md" target="_blank"><b>Link to Github SQL Medium tasks</b></a>
-   * <a href="https://github.com/dudekluk/Portfolio/blob/main/SQL%20Practice%20Hard.md" target="_blank"><b>Link to Github SQL Hard tasks</b></a>
+   * <a href="https://github.com/dudekluk/Portfolio/blob/main/doc/SQL%20Practice%20Easy.md" target="_blank"><b>Link to Github SQL Easy tasks</b></a>
+   * <a href="https://github.com/dudekluk/Portfolio/blob/main/doc/SQL%20Practice%20Medium.md" target="_blank"><b>Link to Github SQL Medium tasks</b></a>
+   * <a href="https://github.com/dudekluk/Portfolio/blob/main/doc/SQL%20Practice%20Hard.md" target="_blank"><b>Link to Github SQL Hard tasks</b></a>
    
 
 
 <h3 id="test-cases">➡ Test cases</h3>
 
 
-I've been practicing writing clear and well-structured test cases in **Jira**, a popular team and project management tool, combined with **Xray**, a powerful test and defect tracking plugin for Jira. You can view some examples of my work in <a href="https://github.com/dudekluk/Portfolio/blob/main/Test%20Cases.md" target="_blank"><b>GitHub SQL section</b></a>. This combination of tools allowed me to effectively organize and manage my testing efforts. Additionally, I've also been exploring other tools like **Qase** to broaden my knowledge.
+I've been practicing writing clear and well-structured test cases in **Jira**, a popular team and project management tool, combined with **Xray**, a powerful test and defect tracking plugin for Jira. You can view some examples of my work in <a href="https://github.com/dudekluk/Portfolio/blob/main/doc/Test%20Cases.md" target="_blank"><b>GitHub SQL section</b></a>. This combination of tools allowed me to effectively organize and manage my testing efforts. Additionally, I've also been exploring other tools like **Qase** to broaden my knowledge.
 
 
 <h3 id="rest-api-testing-with-postman">➡ REST API testing with Postman</h3>
