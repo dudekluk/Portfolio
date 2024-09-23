@@ -59,6 +59,7 @@ My goal is to expand my testing knowledge, enhance my technical skills, and secu
 * **Facebook:**
   * **Testowanie oprogramowania**
   * **Tester oprogramowania - jak nim zostać?**
+  * **Testowanie oprogramowania - Materiały | Porady**
 * **Discord:**
   * **Team QualityIsland** - group led by Tomasz Stelmach
   * **Szkolenie dla QA** - group led by Adam Gola
