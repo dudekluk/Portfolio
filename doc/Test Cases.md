@@ -4,17 +4,17 @@
 * [Test plan for login functionality.](#Test-plan)
 * [List of all test cases created in Jira and Xray.](#Jira-Main)
 * [Example test cases in full details using Qase.](#Qase-Main)
-    * [1. Verify successful login with valid data](#Qase-1)
-    * [2. Verify failed login with invalid data ](#Qase-2)
-    * [3. Check login with empty fields](#Qase-3)
-    * [4. Test password reset functionality](#Qase-4)
-    * [5. Check two-factor authentication](#Qase-5)
-    * [6. Check login using social media](#Qase-6)
-    * [7. Test logout functionality](#Qase-7)
-    * [8. Validate session timeout](#Qase-8)
+   * [1. Verify successful login with valid data](#1-verify-successful-login-with-valid-data)
+   * [2. Verify failed login with invalid data](#2-verify-failed-login-with-invalid-data)
+   * [3. Check login with empty fields](#3-check-login-with-empty-fields)
+   * [4. Test password reset functionality](#4-test-password-reset-functionality)
+   * [5. Check two-factor authentication](#5-check-two-factor-authentication)
+   * [6. Check login using social media](#6-check-login-using-social-media)
+   * [7. Test logout functionality](#7-test-logout-functionality)
+   * [8. Validate session timeout](#8-validate-session-timeout)
 * [Test summary report for login functionality and bugs report.](#Test-report)
 
- 
+
 
 <h1 id="Test-plan">Test plan for login functionality.</h2>
 
@@ -92,43 +92,39 @@ The main objective is to ensure the quality and reliability of the testing web a
 <h1 id="Jira-Main">List of all test cases created in Jira and Xray</h2>
 
 ![Alt text](https://github.com/dudekluk/Portfolio/blob/main/img/Login_Test_Cases.png "a title")
-<br>
-<br>
-<br>
-<br>
+
 <h1 id="Qase-Main">Example test cases in full details using Qase.</h2>
 
- <a name="Qase-1">1. Verify successful login with valid data</a>  
- 
- ---
+
+
+### 1. Verify successful login with valid data
+
 ![Alt text](https://github.com/dudekluk/Portfolio/blob/main/img/TC1.png "Test Case 1")
- <a name="Qase-2">2. Verify failed login with invalid data </a>
- 
- ---
+
+### 2. Verify failed login with invalid data
+
 ![Alt text](https://github.com/dudekluk/Portfolio/blob/main/img/TC2.png "Test Case 2")
- <a name="Qase-3">3. Check login with empty fields</a>
- 
- ---
+
+
+### 3. Check login with empty fields
+
 ![Alt text](https://github.com/dudekluk/Portfolio/blob/main/img/TC3.png "Test Case 3")
- <a name="Qase-4">4. Test password reset functionality</a>
- 
- ---
+
+### 4. Test password reset functionality
+
 ![Alt text](https://github.com/dudekluk/Portfolio/blob/main/img/TC4.png "Test Case 4")
- <a name="Qase-5">5. Check two-factor authentication</a>
- 
- ---
+
+### 5. Check two-factor authentication
+
 ![Alt text](https://github.com/dudekluk/Portfolio/blob/main/img/TC5.png "Test Case 5")
- <a name="Qase-6">6. Check login using social media</a>
  
- ---
+### 6. Check login using social media
 ![Alt text](https://github.com/dudekluk/Portfolio/blob/main/img/TC6.png "Test Case 6")
- <a name="Qase-7">7. Test logout functionality</a>
- 
- ---
+
+## 7. Test logout functionality
 ![Alt text](https://github.com/dudekluk/Portfolio/blob/main/img/TC7.png "Test Case 7")
- <a name="Qase-8">8. Validate session timeout </a>
- 
- ---
+
+## 8. Validate session timeout
 ![Alt text](https://github.com/dudekluk/Portfolio/blob/main/img/TC8.png "Test Case 8")
 
 <h1 id="Test-report">Test summary report for login functionality and bugs report.</h2>
