@@ -105,7 +105,6 @@ The main objective is to ensure the quality and reliability of the testing web a
 
 ![Alt text](https://github.com/dudekluk/Portfolio/blob/main/img/TC2.png "Test Case 2")
 
-
 ### 3. Check login with empty fields
 
 ![Alt text](https://github.com/dudekluk/Portfolio/blob/main/img/TC3.png "Test Case 3")
@@ -121,10 +120,10 @@ The main objective is to ensure the quality and reliability of the testing web a
 ### 6. Check login using social media
 ![Alt text](https://github.com/dudekluk/Portfolio/blob/main/img/TC6.png "Test Case 6")
 
-## 7. Test logout functionality
+### 7. Test logout functionality
 ![Alt text](https://github.com/dudekluk/Portfolio/blob/main/img/TC7.png "Test Case 7")
 
-## 8. Validate session timeout
+### 8. Validate session timeout
 ![Alt text](https://github.com/dudekluk/Portfolio/blob/main/img/TC8.png "Test Case 8")
 
 <h1 id="Test-report">Test summary report for login functionality and bugs report.</h2>
