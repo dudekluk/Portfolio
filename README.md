@@ -13,12 +13,12 @@ This experience honed my **attention to detail**, **analytical thinking**, and c
 I worked on various projects, primarily focusing on web applications such as e-commerce shops and booking services, performing various forms of **manual testing** including (**functional**, **exploratory**, regression, retest, UX) on both desktop and mobile devices.
 
 
-My goal is to expand my testing knowledge, enhance my technical skills, and secure my first job in this dynamic field. I also aim to delve into **automation** testing to boost my capabilities and contribute more effectively to software **quality assurance**. 
+My goal is to expand my testing knowledge, enhance my technical skills, and secure my first job in this dynamic field. I also want to delve into **automation** testing to boost my capabilities and contribute more effectively to software **quality assurance**. 
 
 <h2 id="skills">👨‍💻 Skills</h2>
 
 * Understanding of fundamental **testing concepts and methodologies**
-* Ability to perform **REST API** testing using Postman and write simple assertions with JavaScript
+* Ability to perform **REST API** testing using Postman and write assertions with JavaScript
 * Ability to write **SQL** queries for data validation
 * Knowledge of the **ISTQB FL** syllabus
 * Creating **test scenarios** and **test cases**
@@ -50,19 +50,19 @@ My goal is to expand my testing knowledge, enhance my technical skills, and secu
 
 * Zawód Tester - Radosław Smilgin
 * SQL w mgnieniu oka - Ben Forta
-* <a href="https://ksiazka.testowanieoprogramowania.pl/" target="_blank"><b>Testowanie oprogramowania</b></a> - Piotr Wicherski
+* [Testowanie oprogramowania](https://ksiazka.testowanieoprogramowania.pl) - Piotr Wicherski
 * ABC Testowania oprogramowania - e-book Waldemar Szafraniec, Dorota Gabor
   
 
 <h2 id="facebook-and-discord-groups">📝 Facebook and Discord groups</h2>
 
 * **Facebook:**
-  * **Testowanie oprogramowania**
-  * **Tester oprogramowania - jak nim zostać?**
-  * **Testowanie oprogramowania - Materiały | Porady**
+  * [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania)
+  * [Testowanie oprogramowania - Materiały | Porady](https://www.facebook.com/groups/testowanie)
+  * [Tester oprogramowania - jak nim zostać?](https://www.facebook.com/groups/jakzostactesterem)
 * **Discord:**
-  * **Team QualityIsland** - group led by Tomasz Stelmach
-  * **Szkolenie dla QA** - group led by Adam Gola
+  * [Team QualityIsland](https://discord.gg/xwSWSwC7) - group led by Tomasz Stelmach
+  * [Szkolenie dla QA](https://discord.gg/H9vSawcg) - group led by Adam Gola
 
 <h2 id="webinars">🎧Webinars</h2>
 
@@ -74,11 +74,11 @@ My goal is to expand my testing knowledge, enhance my technical skills, and secu
 
 <h2 id="recommended-blogs">🖋 Recommended blogs</h2>
 
+* [Quality Island](https://qualityisland.pl/blog)
+* [Jak Testować](https://jaktestowac.pl/blog/)
+* [Po Szklanie i na testowanie](https://www.youtube.com/@PoSzklanieINaTestowanie) - YouTube podcast
+* [Wyszkolę Was](https://www.wyszkolewas.com.pl/blog/)
 
-* <a href="https://qualityisland.pl/blog/" target="_blank"><b>Quality Island</b></a>
-* <a href="https://jaktestowac.pl/blog/" target="_blank"><b>Jak Testować</b></a>
-* <a href="https://www.youtube.com/@PoSzklanieINaTestowanie" target="_blank"><b>Po Szklanie i na testowanie podcast youtube</b></a>
-* <a href="https://www.wyszkolewas.com.pl/blog/" target="_blank"><b>Wyszkolę Was</b></a>
 
 <h2 id="projects">🖥 Projects</h2>
 
@@ -94,24 +94,23 @@ I have developed strong SQL skills through hands-on practice and self-study. I'm
 * Grouping data for analysis.
 * Ordering and limiting data output.
 
-I have honed these abilities by solving tasks on platforms like **[SQL Practice](https://www.sql-practice.com/)**, where I tackled real-world scenarios to enhance my understanding and application of SQL.
+I have honed these abilities by solving tasks on platforms like [SQL Practice](https://www.sql-practice.com/), where I tackled real-world scenarios to enhance my understanding and application of SQL.
 
 Here you can find examples of how I solved tasks on SQL Practice:
-   * <a href="https://github.com/dudekluk/Portfolio/blob/main/doc/SQL%20Practice%20Easy.md" target="_blank"><b>Link to Github SQL Easy tasks</b></a>
-   * <a href="https://github.com/dudekluk/Portfolio/blob/main/doc/SQL%20Practice%20Medium.md" target="_blank"><b>Link to Github SQL Medium tasks</b></a>
-   * <a href="https://github.com/dudekluk/Portfolio/blob/main/doc/SQL%20Practice%20Hard.md" target="_blank"><b>Link to Github SQL Hard tasks</b></a>
-   
 
-
+* [Link to Github SQL Easy tasks](https://github.com/dudekluk/Portfolio/blob/main/doc/SQL%20Practice%20Easy.md)
+* [Link to Github SQL Medium tasks](https://github.com/dudekluk/Portfolio/blob/main/doc/SQL%20Practice%20Medium.md)
+* [Link to Github SQL Hard tasks](https://github.com/dudekluk/Portfolio/blob/main/doc/SQL%20Practice%20Hard.md)
+ 
 <h3 id="test-cases">➡ Test cases</h3>
 
 
-I've been practicing writing clear and well-structured test cases in **Jira**, a popular team and project management tool, combined with **Xray**, a powerful test and defect tracking plugin for Jira. You can view some examples of my work in <a href="https://github.com/dudekluk/Portfolio/blob/main/doc/Test%20Cases.md" target="_blank"><b>GitHub SQL section</b></a>. This combination of tools allowed me to effectively organize and manage my testing efforts. Additionally, I've also been exploring other tools like **Qase** to broaden my knowledge.
+I've been practicing writing clear and well-structured test cases in **Jira**, a popular team and project management tool, combined with **Xray**, a powerful test and defect tracking plugin for Jira. You can view some examples of my work in [GitHub SQL section](https://github.com/dudekluk/Portfolio/blob/main/doc/Test%20Cases.md). This combination of tools allowed me to effectively organize and manage my testing efforts. Additionally, I've also been exploring other tools like **Qase** to broaden my knowledge.
 
 
 <h3 id="rest-api-testing-with-postman">➡ REST API testing with Postman</h3>
 
-If you're curious about my API testing skills, I encourage you to explore my dedicated <a href="https://github.com/dudekluk/Postman" target="_blank"><b>Postman GitHub repository</b></a> where you'll find real-world examples of my Postman collections, API testing strategies, and my approach to writing assertions.
+If you're curious about my API testing skills, I encourage you to explore my dedicated [Postman GitHub repository](https://github.com/dudekluk/Postman) where you'll find real-world examples of my Postman collections, API testing strategies, and my approach to writing assertions.
 
 <br></br>
 <p align="center">
