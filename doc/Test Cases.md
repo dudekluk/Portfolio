@@ -7,7 +7,7 @@
     * [1. Verify successful login with valid data](#Qase-1)
     * [2. Verify failed login with invalid data ](#Qase-2)
     * [3. Check login with empty fields](#Qase-3)
-    * [4. Test password reset functionality ](#Qase-4)
+    * [4. Test password reset functionality](#Qase-4)
     * [5. Check two-factor authentication](#Qase-5)
     * [6. Check login using social media](#Qase-6)
     * [7. Test logout functionality](#Qase-7)
@@ -156,4 +156,15 @@ To address the remaining performance tests and ensure comprehensive testing cove
 The login functionality is ready for deployment, it is crucial to closely monitor its performance in the production environment, especially given the lack of extensive performance testing.
 
 7. **List of reported bugs:**
+   
+#### 1. User can't login using correct two-factor authentication.
+![Alt text](https://github.com/dudekluk/Portfolio/blob/main/img/2FA.png "2FA")
+
+
+#### 2. User didn't receive mail with reset password.
+![Alt text](https://github.com/dudekluk/Portfolio/blob/main/img/Reset.png "Reset")
+
+
+#### 3. User remain login after 15 min without activity.
+![Alt text](https://github.com/dudekluk/Portfolio/blob/main/img/Session.png "Session")
 
