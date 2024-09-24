@@ -12,6 +12,7 @@
     * [6. Check login using social media](#Qase-6)
     * [7. Test logout functionality](#Qase-7)
     * [8. Validate session timeout](#Qase-8)
+* [Test summary report for login functionality and bugs report.](#Test-report)
 
  
 
@@ -48,7 +49,7 @@ The main objective is to ensure the quality and reliability of the testing web a
 
 ### Test Schedule
 * **Start Date**: Beginning of Sprint 7
-* **End Date**: End of Sprint 7 or Continuous testing until all test cases are executed and critical issues are resolved.
+* **End Date**: End of Sprint 7 or continuous testing until all test cases are executed and critical issues are resolved.
 
 ### Resources
 
@@ -130,4 +131,29 @@ The main objective is to ensure the quality and reliability of the testing web a
  ---
 ![Alt text](https://github.com/dudekluk/Portfolio/blob/main/img/TC8.png "Test Case 8")
 
+<h1 id="Test-report">Test summary report for login functionality and bugs report.</h2>
+
+## Test Summary Report
+1. **Descripton**: Tests were conducted to ensure the quality and reliability of the web application's login functionality.
+2. **Test Period**: Beginning of Sprint 7 (17.09.2024) - End of Sprint 7 (24.09.2024)
+3. **Test Coverage** : 95% test coverage, remaining 5% contained edge cases with low risk
+4. **Test Execution Summary:** 
+* Total Test Cases: 39
+* Passed: 30
+* Failed: 3
+* Blocked: 0
+* Not Executed: 6
+
+5. **Key Findings**:
+* The login functionality is generally reliable, with a high pass rate of test cases.
+* 2 critical defects and 1 bloker were identified.
+* All defects are now fixed and re-tested.
+* The remaining 5% of uncovered test cases involve low-risk edge scenarios.
+* 6 performance tests were not executed due to a lack of a performance tester.
+
+6. **Recommendations**:
+To address the remaining performance tests and ensure comprehensive testing coverage I recomend to hire a performance tester or upskill an existing tester.
+The login functionality is ready for deployment, it is crucial to closely monitor its performance in the production environment, especially given the lack of extensive performance testing.
+
+7. **List of reported bugs:**
 
