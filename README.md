@@ -15,6 +15,34 @@ I worked on various projects, primarily focusing on web applications such as e-c
 
 My goal is to expand my testing knowledge, enhance my technical skills, and secure my first job in this dynamic field. I also want to delve into **automation** testing to boost my capabilities and contribute more effectively to software **quality assurance**. 
 
+
+<h2 id="projects">🖥 Projects</h2>
+
+### ➡[Project 1: REST API testing with Postman](https://github.com/dudekluk/Postman) 
+Here you'll find real-world examples of my Postman collections, API testing strategies, and my approach to writing assertions.
+
+### ➡[Project 2: Manual Testing](https://github.com/dudekluk/Portfolio/blob/main/doc/Test%20Cases.md) 
+This project provides practical examples of test plan, test report, test cases, and bug reports for testing the login functionality of an e-commerce website.
+
+### ➡[Project 3: SQL](https://github.com/dudekluk/Portfolio/blob/main/doc/SQL%20Practice%20Easy.md)
+
+I have developed strong SQL skills through hands-on practice and self-study. I'm proficient in various SQL operations, including:
+* Filtering data based on multiple conditions.
+* Using subqueries.
+* Joining related tables to combine data from multiple sources.
+* Performing mathematical operations on data.
+* Aggregating data using functions like MIN, MAX, AVG, COUNT, and SUM.
+* Grouping data for analysis.
+* Ordering and limiting data output.
+
+I have honed these abilities by solving tasks on platforms like [SQL Practice](https://www.sql-practice.com/), where I tackled real-world scenarios to enhance my understanding and application of SQL.
+
+Here you can find examples of how I solved tasks on SQL Practice:
+
+* [Link to Github SQL Easy tasks](https://github.com/dudekluk/Portfolio/blob/main/doc/SQL%20Practice%20Easy.md)
+* [Link to Github SQL Medium tasks](https://github.com/dudekluk/Portfolio/blob/main/doc/SQL%20Practice%20Medium.md)
+* [Link to Github SQL Hard tasks](https://github.com/dudekluk/Portfolio/blob/main/doc/SQL%20Practice%20Hard.md)
+  
 <h2 id="skills">👨‍💻 Skills</h2>
 
 * Understanding of fundamental **testing concepts and methodologies**
@@ -80,37 +108,6 @@ My goal is to expand my testing knowledge, enhance my technical skills, and secu
 * [Wyszkolę Was](https://www.wyszkolewas.com.pl/blog/)
 
 
-<h2 id="projects">🖥 Projects</h2>
-
-
-<h3 id="sql">➡ SQL</h3>
-
-I have developed strong SQL skills through hands-on practice and self-study. I'm proficient in various SQL operations, including:
-* Filtering data based on multiple conditions.
-* Using subqueries.
-* Joining related tables to combine data from multiple sources.
-* Performing mathematical operations on data.
-* Aggregating data using functions like MIN, MAX, AVG, COUNT, and SUM.
-* Grouping data for analysis.
-* Ordering and limiting data output.
-
-I have honed these abilities by solving tasks on platforms like [SQL Practice](https://www.sql-practice.com/), where I tackled real-world scenarios to enhance my understanding and application of SQL.
-
-Here you can find examples of how I solved tasks on SQL Practice:
-
-* [Link to Github SQL Easy tasks](https://github.com/dudekluk/Portfolio/blob/main/doc/SQL%20Practice%20Easy.md)
-* [Link to Github SQL Medium tasks](https://github.com/dudekluk/Portfolio/blob/main/doc/SQL%20Practice%20Medium.md)
-* [Link to Github SQL Hard tasks](https://github.com/dudekluk/Portfolio/blob/main/doc/SQL%20Practice%20Hard.md)
- 
-<h3 id="test-cases">➡ Test cases</h3>
-
-
-I've been practicing writing clear and well-structured test cases in **Jira**, a popular team and project management tool, combined with **Xray**, a powerful test and defect tracking plugin for Jira. You can view some examples of my work in [GitHub SQL section](https://github.com/dudekluk/Portfolio/blob/main/doc/Test%20Cases.md). This combination of tools allowed me to effectively organize and manage my testing efforts. Additionally, I've also been exploring other tools like **Qase** to broaden my knowledge.
-
-
-<h3 id="rest-api-testing-with-postman">➡ REST API testing with Postman</h3>
-
-If you're curious about my API testing skills, I encourage you to explore my dedicated [Postman GitHub repository](https://github.com/dudekluk/Postman) where you'll find real-world examples of my Postman collections, API testing strategies, and my approach to writing assertions.
 
 <br></br>
 <p align="center">
@@ -118,5 +115,6 @@ If you're curious about my API testing skills, I encourage you to explore my ded
 </p>
 
 ###### <p align="center"><a href="https://pl.freepik.com/darmowe-wektory/malowany-szablon-etykiety-z-podziekowaniem_10330820.htm#fromView=search&page=1&position=23&uuid=79c21d8b-1b3b-4f28-aec1-30b625c1a964" target="_blank">Image by Freepik</a></p> 
+
 
 
