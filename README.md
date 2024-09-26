@@ -35,9 +35,7 @@ I have developed strong SQL skills through hands-on practice and self-study. I'm
 * Grouping data for analysis.
 * Ordering and limiting data output.
 
-I have honed these abilities by solving tasks on platforms like [SQL Practice](https://www.sql-practice.com/), where I tackled real-world scenarios to enhance my understanding and application of SQL.
-
-Here you can find examples of how I solved tasks on SQL Practice:
+Here you can find examples of how I solved tasks on [SQL Practice](https://www.sql-practice.com/):
 
 * [Link to Github SQL Easy tasks](https://github.com/dudekluk/Portfolio/blob/main/doc/SQL%20Practice%20Easy.md)
 * [Link to Github SQL Medium tasks](https://github.com/dudekluk/Portfolio/blob/main/doc/SQL%20Practice%20Medium.md)
