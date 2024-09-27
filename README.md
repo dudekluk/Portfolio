@@ -13,18 +13,21 @@ This experience honed my **attention to detail**, **analytical thinking**, and c
 I worked on various projects, primarily focusing on web applications such as e-commerce shops and booking services, performing various forms of **manual testing** including (**functional**, **exploratory**, regression, retest, UX) on both desktop and mobile devices.
 
 
-My goal is to expand my testing knowledge, enhance my technical skills, and secure my first job in this dynamic field. I also want to delve into **automation** testing to boost my capabilities and contribute more effectively to software **quality assurance**. 
-
+My goal is to expand my testing knowledge, enhance my technical skills, and secure my first job in this dynamic field. Currently learning to write automated tests in **Playwright** using **TypeScript**. I am eager to expand my skills into automation testing to contribute more effectively to software quality assurance."
 
 <h2 id="projects">🖥 Projects</h2>
 
 ### ➡[Project 1: REST API testing with Postman](https://github.com/dudekluk/Postman) 
 Here you'll find real-world examples of my Postman collections, API testing strategies, and my approach to writing assertions.
 
-### ➡[Project 2: Manual Testing](https://github.com/dudekluk/Portfolio/blob/main/doc/Test%20Cases.md) 
+
+### ➡[Project 2: Automation E2E testing with Playwright and TypeScript](https://github.com/dudekluk/Playwright) 
+Automation tests for a banking application using Playwright.
+
+### ➡[Project 3: Manual Testing](https://github.com/dudekluk/Portfolio/blob/main/doc/Test%20Cases.md) 
 This project provides practical examples of test plan, test report, test cases, and bug reports for testing the login functionality of an e-commerce website.
 
-### ➡[Project 3: SQL](https://github.com/dudekluk/Portfolio/blob/main/doc/SQL%20Practice%20Easy.md)
+### ➡[Project 4: SQL](https://github.com/dudekluk/Portfolio/blob/main/doc/SQL%20Practice%20Easy.md)
 
 I have developed strong SQL skills through hands-on practice and self-study. I'm proficient in various SQL operations, including:
 * Filtering data based on multiple conditions.
@@ -45,6 +48,7 @@ Here you can find examples of how I solved tasks on [SQL Practice](https://www.s
 
 * Understanding of fundamental **testing concepts and methodologies**
 * Ability to perform **REST API** testing using Postman and write assertions with JavaScript
+* Beginner knowledge of writing tests in **Playwright** using **Typescript**
 * Ability to write **SQL** queries for data validation
 * Knowledge of the **ISTQB FL** syllabus
 * Creating **test scenarios** and **test cases**
@@ -60,6 +64,7 @@ Here you can find examples of how I solved tasks on [SQL Practice](https://www.s
 * **Xray:** Test management tool for Jira
 * **GitHub:** Code hosting platform for version control
 * **Git:** Distributed version control system
+* **Visual Studio Code:**  code editor
 * **BrowserStack:** Cloud-based testing platform for web and mobile apps
 * **Bug Magnet:** Chrome extension for fast test data generation
 * **Chrome DevTools:** Built-in web developer tools for debugging and inspecting web pages
