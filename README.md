@@ -27,7 +27,10 @@ Automation tests for a banking application using Playwright.
 ### ➡[Project 3: Manual Testing](https://github.com/dudekluk/Portfolio/blob/main/doc/Test%20Cases.md) 
 This project provides practical examples of test plan, test report, test cases, and bug reports for testing the login functionality of an e-commerce website.
 
-### ➡[Project 4: SQL](https://github.com/dudekluk/Portfolio/blob/main/doc/SQL%20Practice%20Easy.md)
+### ➡[Project 4: ITFlow exploratory testing](https://github.com/dudekluk/itflow-exploratory-testing)
+This project focuses on the exploratory testing of ITFlow, an open-source web application designed for service providers. I've created a comprehensive test plan, checklists, and conducted thorough testing to identify and report bugs, contributing to the improvement of ITFlow's functionality and user experience.
+
+### ➡[Project 5: SQL](https://github.com/dudekluk/Portfolio/blob/main/doc/SQL%20Practice%20Easy.md)
 
 I have developed strong SQL skills through hands-on practice and self-study. I'm proficient in various SQL operations, including:
 * Filtering data based on multiple conditions.
