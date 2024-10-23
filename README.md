@@ -6,7 +6,7 @@
 
 <h2 id="about-me">🔎 About me</h2>
 
-Hello, my name is Łukasz Dudek. I am an **IT engineer** with a Master’s degree from the Cracow University of Technology. Driven by my passion for learning and desire to use my educational background, I found my calling in software testing.This profession allows me to **continuously self-develop** and utilize my curious nature to uncover errors and improve software quality.
+Hello, my name is Łukasz Dudek. I am an **IT engineer** with a Master’s degree from the Cracow University of Technology. Driven by my passion for learning and desire to use my educational background, I found my calling in software testing. This profession allows me to **continuously self-develop** and utilize my curious nature to uncover errors and improve software quality.
 
 To gain **practical experience**, I actively participated in crowdsourced testing on Test.io. This platform enabled me to apply my knowledge in real-world scenarios, where I successfully identified and reported over **80 defects** that got accepted.
 This experience honed my **attention to detail**, **analytical thinking**, and commitment to quality assurance.
