@@ -134,40 +134,91 @@ The main objective is to ensure the quality and reliability of the e-commerce we
 ### 8. Validate session timeout
 ![Alt text](https://github.com/dudekluk/Portfolio/blob/main/img/TC8.png "Test Case 8")
 
-<h1 id="Test-report">Test summary report for skleptest functionalitys and bugs report.</h2>
+<h1 id="Test-report">Test Summary Report.</h2>
 
-## Test Summary Report
 1. **Descripton**: Tests were conducted to ensure the quality and reliability of the web application functionalitys.
 2. **Test Period**: Beginning of Sprint 7 - End of Sprint 7
 3. **Test Coverage** : 95% test coverage, remaining 5% contained edge cases with low risk
 4. **Test Execution Summary:** 
 * Total Test Cases: 110
-* Passed: 30
-* Failed: 3
+* Passed: 83
+* Failed: 23
 * Blocked: 0
 * Not Executed: 6
+* Total bugs found: 36
+
 
 5. **Key Findings**:
-* The login functionality is generally reliable, with a high pass rate of test cases.
-* 2 critical defects and 1 bloker were identified.
-* All defects are now fixed and re-tested.
-* The remaining 5% of uncovered test cases involve low-risk edge scenarios.
+   
+* Several core functionalities, such as payment processing, are still unstable and require further testing and fixes.
+* Numerous UI bugs hinder user experience and require resolution.
+* All defects are reported and waiting for fixes.
 * 6 performance tests were not executed due to a lack of a performance tester.
 
 6. **Recommendations**:
-To address the remaining performance tests and ensure comprehensive testing coverage I recomend to hire a performance tester or upskill an existing tester.
-The login functionality is ready for deployment, it is crucial to closely monitor its performance in the production environment, especially given the lack of extensive performance testing.
 
+* **Prioritize Bug Fixes:** Address the identified functional and usability issues before deployment.
+* **Consider Additional Testing:** Conduct further exploratory testing to uncover additional issues.
+* **Enhance Performance Testing:** Allocate resources to perform comprehensive performance testing to identify and resolve performance bottlenecks.
+* **Delay Deployment:** Until the identified issues are resolved and performance testing is completed, deployment should be postponed.
+
+  
 7. **List of reported bugs:**
+
+ **Main Page / Cart:**
+
+- Two tabs highlighted as active at the same time
+- Spelling errors like "Catergries" in the menu tab
+- Missing images for products
+- Misaligned product elements like add-to-cart buttons
+- Different colors for "add-to-cart" buttons
+- Items leading to error pages "Oops! That page can’t be found"
+- "Shop now" button leads to error page
+- Header text misalignment
+- Menu bar is misaligned and doesn’t display properly
+
+**Products:**
+
+- Displaying items from wrong categories
+- Missing images for products
+- Misaligned product elements like add-to-cart buttons
+- Sorting items ascending and descending by price not working correctly
+
+**Contact:**
+
+- Missing Google Map display in contact us section
+- Cannot send form with all correct data
+
+**Blog:**
+
+- Duplicate search bar
+- Misaligned items
+- "Search" button size is too big
+- Error handling for posting not working correctly
+- Add comment "cancel" button spills over other text
+- Different spacing in each section
+- Wrong total number of comments
+- Checkbox misaligned
+
+**Cart:**
+
+- Wrong coupon button size
+- After updating cart, +/- buttons are gone
+- Incorrect "x" cancel button
+- PayPal button image is missing
+- PayPal payment error
+- Unnecessary two search bars
+- Non-functioning order print button
+- Some items in cart are miscentered
+
+**Login and Registration:**
+
+- Misaligned buttons
+- Eye icon displayed out of boundary
+- Registration password requirement states 12 characters but won’t let you create an account unless it’s 15
+- Misaligned items in account details
+- User can add special characters/spacebars in characters only fields
+
    
-#### 1. User can't login using correct two-factor authentication.
-![Alt text](https://github.com/dudekluk/Portfolio/blob/main/img/2FA.png "2FA")
 
-
-#### 2. User didn't receive mail with reset password.
-![Alt text](https://github.com/dudekluk/Portfolio/blob/main/img/Reset.png "Reset")
-
-
-#### 3. User remain login after 15 min without activity.
-![Alt text](https://github.com/dudekluk/Portfolio/blob/main/img/Session.png "Session")
 
