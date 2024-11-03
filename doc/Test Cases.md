@@ -1,38 +1,46 @@
-# Example of Login test cases
 
-## Table of Contents
-* [Test plan for login functionality.](#Test-plan)
-* [List of all test cases created in Jira and Xray.](#Jira-Main)
-* [Example test cases in full details using Qase.](#Qase-Main)
-   * [1. Verify successful login with valid data](#1-verify-successful-login-with-valid-data)
-   * [2. Verify failed login with invalid data](#2-verify-failed-login-with-invalid-data)
-   * [3. Check login with empty fields](#3-check-login-with-empty-fields)
-   * [4. Test password reset functionality](#4-test-password-reset-functionality)
-   * [5. Check two-factor authentication](#5-check-two-factor-authentication)
-   * [6. Check login using social media](#6-check-login-using-social-media)
-   * [7. Test logout functionality](#7-test-logout-functionality)
-   * [8. Validate session timeout](#8-validate-session-timeout)
-* [Test summary report for login functionality and bugs report.](#Test-report)
-
-
-
-<h1 id="Test-plan">Test plan for login functionality.</h2>
+<h1 id="Test-plan">Test plan for skleptest.pl</h2>
 
 ### Description
-The main objective is to ensure the quality and reliability of the testing web application's login functionality. The tests will focus on ensuring proper login functionality and expand into different types of tests, including performance, security, and UX. A combination of manual and automated testing will be used to cover various aspects of the login functionality.
+The main objective is to ensure the quality and reliability of the e-commerce website [https://skleptest.pl/](https://skleptest.pl/) functionalities, including login, registration, product browsing, and shopping cart. The tests will focus on ensuring proper functionality and expand into different types of tests, including performance, security, and UX. The main tests performed will be manual tests, that will cover various aspects of these functionalities, and should later expand into automation.
 
 
 ### Scope of Testing
 
-1. Verify successful login with valid credentials.
-2. Test failed login attempts with invalid credentials.
-3. Validate password strength requirements.
-4. Ensure proper handling of forgotten password functionality.
-5. Check for security vulnerabilities.
-6. Verify login page accessibility for users with disabilities.
-7. Assess login performance under different load conditions.
-8. Check user experience.
+**Registration**
+- Successful registration with valid credentials
+- Failed registration with invalid data (empty fields, invalid email, weak password)
+- Email verification process
+- Password reset functionality
+- Social media login 
+- Terms and conditions acceptance
+- Data privacy policy acceptance
 
+**Login**
+- Successful login with valid credentials
+- Failed login with invalid credentials
+- Password strength requirements
+- Forgotten password functionality
+- Security vulnerabilities
+- Accessibility for users with disabilities
+- Performance under load
+
+**Product Browsing**
+- Product listing display (name, price, image, description)
+- Product sorting
+- Product filtering (category, brand, price range)
+- Product search functionality (keyword, phrase)
+- Detailed product information display
+
+**Shopping Cart**
+- Adding products to the cart
+- Updating product quantities in the cart
+- Removing products from the cart
+- Viewing the cart and its contents
+- Calculating the total cart amount 
+- Proceeding to checkout
+- Guest checkout 
+- Order confirmation and email notification
 
 ### Testing Environment
 
@@ -41,11 +49,11 @@ The main objective is to ensure the quality and reliability of the testing web a
 
 ### Types of Tests
 
-1. **Functional Tests**: To verify that loign page works according to the requirements.
+1. **Functional Tests**: To verify that the functionalities work according to the requirements.
 2.  **Performance Tests**: To verify that min 10,000 user can login and use app at the same time.
 3.  **Security Testing**: To verify that no 3rd party can access user accounts. 
-4.  **Accessibility Tests**: To verify that loign page passes all requirements from EU Accessibility Act 2025.
-5.  **UX Tests**:  To verify positive user response to the login feature.
+4.  **Accessibility Tests**: To verify that the application passes all requirements from EU Accessibility Act 2025.
+5.  **UX Tests**:  To verify positive user response to the features.
 
 ### Test Schedule
 * **Start Date**: Beginning of Sprint 7
@@ -65,7 +73,7 @@ The main objective is to ensure the quality and reliability of the testing web a
    * Postman for API testing.
 
 ### Entry Criteria
-- The login feature code is stable for testing.
+- The all features code is stable for testing.
 - Test environment is set up and ready.
 - Test cases are designed, reviewed, and approved.
 - Test data is designed
@@ -126,14 +134,14 @@ The main objective is to ensure the quality and reliability of the testing web a
 ### 8. Validate session timeout
 ![Alt text](https://github.com/dudekluk/Portfolio/blob/main/img/TC8.png "Test Case 8")
 
-<h1 id="Test-report">Test summary report for login functionality and bugs report.</h2>
+<h1 id="Test-report">Test summary report for skleptest functionalitys and bugs report.</h2>
 
 ## Test Summary Report
-1. **Descripton**: Tests were conducted to ensure the quality and reliability of the web application's login functionality.
-2. **Test Period**: Beginning of Sprint 7 (17.09.2024) - End of Sprint 7 (24.09.2024)
+1. **Descripton**: Tests were conducted to ensure the quality and reliability of the web application functionalitys.
+2. **Test Period**: Beginning of Sprint 7 - End of Sprint 7
 3. **Test Coverage** : 95% test coverage, remaining 5% contained edge cases with low risk
 4. **Test Execution Summary:** 
-* Total Test Cases: 39
+* Total Test Cases: 110
 * Passed: 30
 * Failed: 3
 * Blocked: 0
