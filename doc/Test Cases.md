@@ -1,8 +1,8 @@
 
-<h1 id="Test-plan">Test plan for skleptest.pl</h2>
+<h1 id="Test-plan">Test plan for chiara-design.com</h2>
 
 ### Description
-The main objective is to ensure the quality and reliability of the e-commerce website [https://skleptest.pl/](https://skleptest.pl/) functionalities, including login, registration, product browsing, and shopping cart. The tests will focus on ensuring proper functionality and expand into different types of tests, including performance, security, and UX. The main tests performed will be manual tests, that will cover various aspects of these functionalities, and should later expand into automation.
+The main objective is to ensure the quality and reliability of the e-commerce website [https://chiara-design.com/](https://chiara-design.com/) functionalities, including login, registration, product browsing, and shopping cart. The tests will focus on ensuring proper functionality and expand into different types of tests, including performance, security, and UX. The main tests performed will be manual tests, that will cover various aspects of these functionalities, and should later expand into automation.
 
 
 ### Scope of Testing
@@ -133,6 +133,12 @@ The main objective is to ensure the quality and reliability of the e-commerce we
 
 ### 8. Validate session timeout
 ![Alt text](https://github.com/dudekluk/Portfolio/blob/main/img/TC8.png "Test Case 8")
+
+
+<h1 id="Qase-Main">Bug reports</h2>
+
+
+
 
 <h1 id="Test-report">Test Summary Report.</h2>
 
